@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\aisnake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\aisnake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\secondsnake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\secondsnake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\gridcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|c:\\users\\rineau\\desktop\\c#\\snake\\snake\\snakecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A0A21D-D25A-42B4-A5B3-009AAE28DB0E}|Snake\\Snake.csproj|solutionrelative:snake\\snakecell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\GameManager.cs",
+              "RelativeDocumentMoniker": "Snake\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\GameManager.cs",
+              "RelativeToolTip": "Snake\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:54:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Level.cs",
+              "RelativeDocumentMoniker": "Snake\\Level.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Level.cs",
+              "RelativeToolTip": "Snake\\Level.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAANIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T01:03:16.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Collision.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Collision.cs",
+              "RelativeDocumentMoniker": "Snake\\Collision.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Collision.cs",
+              "RelativeToolTip": "Snake\\Collision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:39:50.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Cell.cs",
+              "RelativeDocumentMoniker": "Snake\\Cell.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Cell.cs",
+              "RelativeToolTip": "Snake\\Cell.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T23:14:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GridCell.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\GridCell.cs",
+              "RelativeDocumentMoniker": "Snake\\GridCell.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\GridCell.cs",
+              "RelativeToolTip": "Snake\\GridCell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:51:06.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake\\Snake.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Snake.cs",
+              "RelativeToolTip": "Snake\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:30:53.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondSnake.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\SecondSnake.cs",
+              "RelativeDocumentMoniker": "Snake\\SecondSnake.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\SecondSnake.cs",
+              "RelativeToolTip": "Snake\\SecondSnake.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T20:22:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AISnake.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\AISnake.cs",
+              "RelativeDocumentMoniker": "Snake\\AISnake.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\AISnake.cs",
+              "RelativeToolTip": "Snake\\AISnake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:44:43.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Apple.cs",
+              "RelativeDocumentMoniker": "Snake\\Apple.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Apple.cs",
+              "RelativeToolTip": "Snake\\Apple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:39:38.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SnakeCell.cs",
+              "DocumentMoniker": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\SnakeCell.cs",
+              "RelativeDocumentMoniker": "Snake\\SnakeCell.cs",
+              "ToolTip": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\SnakeCell.cs",
+              "RelativeToolTip": "Snake\\SnakeCell.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T21:39:32.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
