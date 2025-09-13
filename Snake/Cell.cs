@@ -7,16 +7,16 @@ namespace Snake
 {
     abstract class Cell
     {
-        public Vector2 coordinates { get; set; }
-        public int cellSize { get; private set; }
+        public Vector2 coordinates { get; private set; }
+        public int cellSize { get; set; }
         protected int OFFSETX { get; set; }
         protected int OFFSETY { get; set; }
         public int posX {  get; private set; }
         public int posY { get; private set; }
 
-        public int distStart;
-        public int distEnd;
-        public int sumDist;
+        public int distStart { get; private set; }
+        public int distEnd { get; set; }
+        public int sumDist { get; private set; }
         public GridCell parent;
 
         public Cell(Vector2 coordinates, int cellSize, int OFFSETX = 0, int OFFSETY = 0)
@@ -29,7 +29,7 @@ namespace Snake
 
         public abstract void Draw();
 
-        public virtual void reposition(int currentCellSize)
+        public virtual void Reposition(int currentCellSize)
         {
             cellSize = 20;
             posX += (currentCellSize - cellSize) / 2;

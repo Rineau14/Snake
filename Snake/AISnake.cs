@@ -25,7 +25,6 @@ namespace Snake
             closeList.Clear();
             int minSum = cells.Count;
             GridCell currentNode = new GridCell(aiSnakeCoord, cellSize, OFFSETX, OFFSETY);
-            //closeList.Add(this);
 
             foreach (GridCell wall in walls)
                 closeList.Add(wall);
@@ -40,7 +39,6 @@ namespace Snake
                 {
                     if ((!closeList.Contains(cell)) && (!openList.Contains(cell)))
                     {
-
                         if (((cell.coordinates.X == currentNode.coordinates.X - 1) && (cell.coordinates.Y == currentNode.coordinates.Y)) ||
                             ((cell.coordinates.X == currentNode.coordinates.X) && (cell.coordinates.Y == currentNode.coordinates.Y - 1)) ||
                             ((cell.coordinates.X == currentNode.coordinates.X + 1) && (cell.coordinates.Y == currentNode.coordinates.Y)) ||
@@ -57,7 +55,13 @@ namespace Snake
                             openList.Remove(cell);
                         }
                     }
-                        
+                    foreach (SnakeCell SnakeCell in snakeCells)
+                    {
+                        if (cell.coordinates == SnakeCell.coordinates)
+                        {
+                            openList.Remove(cell);
+                        }
+                    }
                 }
 
                 foreach (GridCell cell in openList)
@@ -86,15 +90,17 @@ namespace Snake
             while (true)
             {
                 parentChain = parentChain.parent;
-
-                if (parentChain.coordinates != aiSnakeCoord)
+                if (parentChain is null)
+                {
+                    return new Vector2(coordinates.X, coordinates.Y+1);
+                }
+                else if (parentChain.coordinates != aiSnakeCoord)
                 {
                     path.Add(parentChain);
                     parentTarget = parentChain;
                 }
                 else
                     return parentTarget.coordinates;
-
             }
         }
 

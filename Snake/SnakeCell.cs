@@ -5,17 +5,17 @@ namespace Snake
 {
     class SnakeCell : Cell
     {
-        public float bodySize;
-        public float bodyDecreaseSize;
+        public int bodySize { get; private set; }
+        public int bodyDecreaseSize { get; private set; }
         public SnakeCell(Vector2 coordinates, int cellSize, int OFFSETX, int OFFSETY) : base(coordinates, cellSize, OFFSETX, OFFSETY)
         {
-            bodyDecreaseSize = 0.1f;
+            bodyDecreaseSize = 1;
             bodySize = cellSize - bodyDecreaseSize;
         }
 
-        public void Reposition()
+        public override void Reposition(int bodySize)
         {
-            bodySize -= 0.1f;
+            bodySize --;
             //!!! CENTRER !!!!!!!!
         }
 

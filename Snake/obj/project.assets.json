@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Snake.csproj",
+      "projectUniqueName": "C:\\Users\\Rineau\\Desktop\\Snake\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\Snake.csproj",
+      "projectPath": "C:\\Users\\Rineau\\Desktop\\Snake\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\Rineau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rineau\\Desktop\\C#\\Snake\\Snake\\obj\\",
+      "outputPath": "C:\\Users\\Rineau\\Desktop\\Snake\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

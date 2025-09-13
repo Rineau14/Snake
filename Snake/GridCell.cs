@@ -10,7 +10,6 @@ namespace Snake
         {
 
         }
-
         public override void Draw()
         {
             Raylib.DrawRectangleLines(posX, posY, cellSize, cellSize, Color.Red);
@@ -18,7 +17,7 @@ namespace Snake
 
         public void DrawWall()
         {
-            Raylib.DrawRectangle(posX, posY, cellSize, cellSize, Color.DarkGray);
+            Raylib.DrawRectangle(posX, posY, cellSize, cellSize, Color.Black);
         }
 
         public void DrawChoice()

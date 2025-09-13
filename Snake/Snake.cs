@@ -8,7 +8,7 @@ namespace Snake
 {
     class Snake : Cell
     {
-        public Vector2 coordinates;
+        public Vector2 coordinates; // pas compris ?????
         protected Vector2 position;
         protected Vector2 size;
         public int score;
@@ -52,7 +52,7 @@ namespace Snake
             }
         }
 
-        public virtual void UpdateCoordinates(int nbColumns, int nbRows)
+        public void UpdateCoordinates(int nbColumns, int nbRows)
         {
             switch (snakeMovement)
             {

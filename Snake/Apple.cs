@@ -6,8 +6,8 @@ namespace Snake
 {
     sealed class Apple
     {
-        int rangeColumns;
-        int rangeRows;
+        private readonly int rangeColumns;
+        private readonly int rangeRows;
         public Vector2 coordinates { get; private set; }
         public int posX { get; private set; }
         public int posY { get; private set; }

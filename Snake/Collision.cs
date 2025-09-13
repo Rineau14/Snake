@@ -13,19 +13,16 @@ namespace Snake
         {
             if (snake.coordinates == choices[0].coordinates)
             {
-                level.currentLevel = Level.levelName.free;
                 level.LevelFree();
                 return true;
             }
             else if (snake.coordinates == choices[1].coordinates)
             {
-                level.currentLevel = Level.levelName.freeWall;
                 level.LevelFreeWall();
                 return true;
             }
             else if (snake.coordinates == choices[2].coordinates)
             {
-                level.currentLevel = Level.levelName.story;
                 level.LevelA();
                 return true;
             }
